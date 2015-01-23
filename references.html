@@ -1,0 +1,19 @@
+---
+layout: page
+title: 사례
+---
+<div class="pure-g">
+
+	{% for reference in site.data.references %}
+	<div class="pure-u-1-2">
+		<div class="l-box">
+			<a href="{{ reference.link }}"><img class="pure-img" src="{{ reference.thumbnail }}"></a>
+			<h2><a href="{{ reference.link }}">{{ reference.title }}</a></h2>
+			{% capture description %} {{ reference.description }} {% endcapture %}
+			<p>{{ description | markdownify }}</p>
+			
+		</div>
+	</div>
+	{% endfor %}
+
+</div>

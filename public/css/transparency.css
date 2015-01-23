@@ -3,6 +3,14 @@
 	display: none;
 }
 
+.pure-g {
+	letter-spacing: 100% !important;
+}
+
+.pure-u-1-2 {
+	padding-right: 2em;
+}
+
 @media (min-width: 48em) {
   #profile-img {
   	display: block;
