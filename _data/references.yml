@@ -1,5 +1,31 @@
 ---
 
+- title: 지켜보고 있다
+  thumbnail: /public/runtogether.png
+  link: http://runtogether.me/jq/
+  description: |
+    서울시 오늘의 지출 현황을 보여주는 [2012 공공데이터 캠프](http://codenamu.org/projects/hackathon/1st_camp/)에서 개발한 프로젝트입니다.
+
+    * [전체 기록 문서](http://bit.ly/codenamu2012)
+
+- title: City DATA _ Seoul Daily Expenditure
+  thumbnail: /public/seoul-city-data.jpg
+  link: http://randomwalks.org/public_lab/randomwalkshome/city-data-_-seoul-daily-expenditure/
+  description: | 
+    이 프로젝트는 도시데이터를 활용한 시각화 프로젝트의 하나로, 서울시의 일자별 지출 사업과 금액을 보여줌으로써, 서울시민들의 이해도를 높히고 더 많은 질문과 소통이 시민과 시에서 이루어지길 바란다.
+
+- title: Seoul A to Z
+  thumbnail: /public/seoul-atoz.jpg
+  link: http://seoulaz.codenamu.org
+  description: |
+    서울 시민의 일상을 인포그래픽으로 일목요연하게 보여주어 가려운 곳을 살살 긁어줄 수 있는 서비스입니다.
+    
+- title: 워싱턴 포스트 top secret america
+  thumbnail: /public/top-secret-america.gif
+  link: http://projects.washingtonpost.com/top-secret-america/
+  description: |
+    2010년 관련 좋은 사례
+
 - title: Open Spending
   thumbnail: /public/openspending.png
   link: http://openspending.org/
@@ -31,31 +57,6 @@
     * [뉴스타파](http://newstapa.org)
     * [나라살림연구소](http://www.narasallim.net) [전창수 소장](http://watchman7.tistory.com/451)
     * [뉴스젤리](http://newsjel.ly)
-
-- title: 워싱턴 포스트 top secret america
-  thumbnail: /public/top-secret-america.gif
-  link: http://projects.washingtonpost.com/top-secret-america/
-  description: |
-    2010년 관련 좋은 사례
-
-- title: 지켜보고 있다
-  thumbnail: /public/runtogether.png
-  link: http://runtogether.me/jq/
-  description: |
-    서울시 오늘의 지출 현황을 보여주는 [2012 공공데이터 캠프](http://codenamu.org/projects/hackathon/1st_camp/)에서 개발한 프로젝트입니다.
-
-    * [전체 기록 문서](http://bit.ly/codenamu2012)
-
-- title: Seoul A to Z
-  thumbnail: /public/seoul-atoz.jpg
-  link: http://seoulaz.codenamu.org
-  description: |
-    서울 시민의 일상을 인포그래픽으로 일목요연하게 보여주어 가려운 곳을 살살 긁어줄 수 있는 서비스입니다.
-
-- title: 
-  description: 
-  thumbnail: 
-  link: 
 
 - title: 
   description: 
