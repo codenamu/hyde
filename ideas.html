@@ -1,0 +1,17 @@
+---
+layout: page
+title: 아이디어
+---
+<div class="pure-g ideas">
+
+	{% for idea in site.data.ideas %}
+	<div class="pure-u-1-2">
+		<div class="l-box">
+			<h2>{{ idea.title }}</h2>
+			{% capture description %} {{ idea.description }} {% endcapture %}
+			<p>{{ description | markdownify }}</p>
+		</div>
+	</div>
+	{% endfor %}
+
+</div>

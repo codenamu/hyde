@@ -35,3 +35,9 @@
 .references img {
 	border: 1px solid #ccc;
 }
+
+.ideas .pure-u-1-2 {
+	border: 1px solid #ccc;
+	padding: 1em;
+	margin: 1em 0;
+}
