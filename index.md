@@ -39,7 +39,7 @@ title: 개요
 ##### 공공데이터포털 행정자치부 공개 데이터
 * http://bit.ly/1BRV2bX
 
-
+<div id="disqus_thread"></div>
 <script type="text/javascript">
     /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
     var disqus_shortname = 'transparency-ko'; // required: replace example with your forum shortname
