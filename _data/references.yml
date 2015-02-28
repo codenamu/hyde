@@ -58,7 +58,7 @@
     * [나라살림연구소](http://www.narasallim.net) [전창수 소장](http://watchman7.tistory.com/451)
     * [뉴스젤리](http://newsjel.ly)
 
-- title: 
-  description: 
-  thumbnail: 
-  link: 
+- title:  BudgetMap
+  description: 주어진 사회 이슈에 관련이 있는 사업들을 담아 서울시 예산지도를 완성해 보세요
+  thumbnail: /public/budgetmap.png
+  link: http://budgetmap.budgetwiser.org
