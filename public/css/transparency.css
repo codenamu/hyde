@@ -29,7 +29,7 @@
 }
 
 .fa.fa-krw {
-	font-size: 240%;
+	font-size: 200%;
 }
 
 .references img {
@@ -40,4 +40,92 @@
 	border: 1px solid #ccc;
 	padding: 1em;
 	margin: 1em 0;
+}
+
+.sidebar-about h1 {
+	font-size: 2.5rem;
+	width: 70%;
+}
+
+#hackathon {
+	padding: 1em;
+	color: #fff;
+	background: #6a9fb5;
+	text-align: center;
+}
+
+#hackathon a,
+#hackathon h3 {
+	color: #fff;
+}
+
+#hackathon a:hover {
+	color: #6a9fb5;	
+}
+
+#hackathon h3 {
+	margin: 0;
+}
+
+.gh-btn {
+  display: inline-block;
+  width: 200px;
+  padding: 8px;
+  color: #fff;
+  border: 1px solid #fff;
+  text-align: center;
+  outline: none;
+  text-decoration: none;
+  margin: 1em 0;
+}
+
+.gh-btn:hover,
+.gh-btn:active {
+  background-color: #fff;
+  color: #6a9fb5;
+}
+
+.rc {
+  display: inline-block;
+  width: 200px;
+  padding: 8px;
+  color: #fff;
+  border: 1px solid #fff;
+  border-radius: 5px;
+  text-align: center;
+  outline: none;
+  text-decoration: none;
+}
+.gh-btn.rc:hover,
+.gh-btn.rc:active {
+  background-color: #fff;
+  color: #6a9fb5;
+}
+
+.gh-btn.trans {
+  display: inline-block;
+  width: 200px;
+  padding: 8px;
+  color: #fff;
+  border: 2px solid #fff;
+  text-align: center;
+  outline: none;
+  text-decoration: none;
+  transition: background-color 0.2s ease-out,
+              color 0.2s ease-out;
+}
+.gh-btn.trans a:hover,
+.gh-btn.trans a:active {
+  background-color: #fff;
+  color: #6a9fb5;
+  transition: background-color 0.3s ease-in,
+              color 0.3s ease-in;
+}
+
+#hackathon.details {
+	margin: 1em 0;
+}
+
+#hackathon.details h2 {
+	color: #fff;
 }
