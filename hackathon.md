@@ -26,7 +26,7 @@ title: 2015 투명 재정 해커톤
     * 코드 저장소: https://github.com/codeforseoul/super-eul
     * 결과물: [발표자료](https://slack-files.com/files-pri-safe/T02QENMKM-F0476PP1M/________________________________.pdf?c=1427691323-2b41d29ac4d594f637c9e322e6871c607b721f15) / [시연 동영상](https://files.slack.com/files-pri/T02QENMKM-F046HA88N/civic-hakaton-20150328-with-heyjung-1156-.m4v)
 
-- [2팀 team2](http://bit.ly/codeacross-2015-seoul-2) [#digital_divide](https://codeforseoul.slack.com/messages/digital_divide/)
+- [2팀 team2](http://bit.ly/codeacross-2015-seoul-2) [#digital_divide](https://codeforseoul.slack.com/messages/digital_divide/) ``우승``
     * 교육 예산의 불평등한 집행을 보여주는게 목표.
     * 초중고대학교 주소, 공공데이터 포털의 교육 예산 데이 터 api, 몇 가지는 크롤링을 통해 확보.
     * 해커톤 참가자: 조용현, 이광춘, Boev Aleksey, Min Sun Kim
@@ -38,7 +38,7 @@ title: 2015 투명 재정 해커톤
     * 창조 경제에 집행되는 예산 내역을 시각화.
     * 필요한 데이터를 구할 수 없어서 팀단위 해커톤 참가 포기.
 
-- [4팀 team4](http://bit.ly/codeacross-2015-seoul-4) [#idea4](https://codeforseoul.slack.com/messages/idea4/)    
+- [4팀 team4](http://bit.ly/codeacross-2015-seoul-4) [#idea4](https://codeforseoul.slack.com/messages/idea4/) ```특별상```    
     * 우리동네 생활지표 순위
     * 내 주위 놀이터, 유치원, 공원, 교육예산 등 정부의 재 정 지출 현황으로 관심의 범위를 확대.
     * 해커톤 참가자: 홍대의, 김현재
