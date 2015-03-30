@@ -22,7 +22,7 @@ title: 2015 투명 재정 해커톤
 - [1팀 team1](http://bit.ly/codeacross-2015-seoul-1) [#idea1](https://codeforseoul.slack.com/messages/idea1/)    
     * 슈퍼스타 을!보드차트!   
     * 세금이 누구를 통해 어떻게 집행되는지 보고 싶어요! 특정 업체가 정부의 리소스를 독식하지 않기를.
-    * 해커톤 참가자: 윤혜정, 배민효, 정태현
+    * 해커톤 참가자: 윤혜정, 배민효, 정태현, 전석환
     * 코드 저장소: https://github.com/codeforseoul/super-eul
     * 결과물: [발표자료](https://slack-files.com/files-pri-safe/T02QENMKM-F0476PP1M/________________________________.pdf?c=1427691323-2b41d29ac4d594f637c9e322e6871c607b721f15) / [시연 동영상](https://files.slack.com/files-pri/T02QENMKM-F046HA88N/civic-hakaton-20150328-with-heyjung-1156-.m4v)
 
