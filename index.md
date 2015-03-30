@@ -32,21 +32,52 @@ title: 개요
 #### 기록 문서 Documents
 
 - [전체 문서 All](https://drive.google.com/open?id=0B1QfS9cr-5snfkcxZVB6OFQxbi1nMW9LVTU5Y20zTFZKNkdRLUlTOFBvdVgxWkd2NnJrNjg&authuser=0)
+
 - [1팀 team1](http://bit.ly/codeacross-2015-seoul-1) [#idea1](https://codeforseoul.slack.com/messages/idea1/)    
     * 슈퍼스타 을!보드차트!   
     * 세금이 누구를 통해 어떻게 집행되는지 보고 싶어요! 특정 업체가 정부의 리소스를 독식하지 않기를.
+    * 팀원: 윤혜정, 고은영, 임재균, 전석환, 배민효
+    * 문서: http://bit.ly/codeacross-2015-seoul-1
+    * 코드 저장소: https://github.com/codeforseoul/super-eul
+    * 슬랙 채널: [#idea1](https://codeforseoul.slack.com/messages/idea1/)
+    * 중간 공유회 발표자료: https://slack-files.com/T02QENMKM-F041UN58G-bcb58ef896
+    * 해커톤 발표 자료(동영상):[발표자료](https://slack-files.com/files-pri-safe/T02QENMKM-F0476PP1M/________________________________.pdf?c=1427691323-2b41d29ac4d594f637c9e322e6871c607b721f15) / [시연 동영상](https://files.slack.com/files-pri/T02QENMKM-F046HA88N/civic-hakaton-20150328-with-heyjung-1156-.m4v)
+
 - [2팀 team2](http://bit.ly/codeacross-2015-seoul-2) [#digital_divide](https://codeforseoul.slack.com/messages/digital_divide/)
     * 교육 예산의 불평등한 집행을 보여주는게 목표.
     * 초중고대학교 주소, 공공데이터 포털의 교육 예산 데이 터 api, 몇 가지는 크롤링을 통해 확보.
+    * 팀원: Andrei.Russia, 조용현(Mickey).Korea, Alex.Russia, 이광춘(Victor, http://www.xwmooc.net).Korea
+    * 슬랙 채널: [#digital_divide](https://codeforseoul.slack.com/messages/digital_divide/)
+    * 개발에 대한 정리 문서 https://docs.google.com/document/d/19H6_3E9wGvtfRjfgk3cHuOmRl8qB6R4aPPfPc6LZEj0/edit#
+    * 작업 공유 구글 폴더: https://drive.google.com/folderview?id=0B9_Acd_wLWotZHItSUdMelZDTWc&usp=sharing
+    * 웹사이트: http://codeforseoul.org/xwMOOC/
+    * 개발을 위한 코드(Github): https://github.com/codeforseoul/xwMOOC
+    * 결과물: http://161.202.103.101/main.html
+
 - [3팀 team3](http://bit.ly/codeacross-2015-seoul-3) [#codeacross_start-ups](https://codeforseoul.slack.com/messages/codeacross_start-ups)
     * 스타트업 지원 금액으로 살펴 보는 창조경제
     * 창조 경제에 집행되는 예산 내역을 시각화.
-- [4팀 team4](http://bit.ly/codeacross-2015-seoul-4) (카톡방)
+    * 팀원: 재이슨(Jason C), 니콜라스(Nicolas de Thore), 다미앙(CORNEAU Damien), 마이크(Mike Simalango), 김민선(Min Sun Kim), 이예연(Alice)
+    * 슬랙 채널: [#codeacross_start-ups](https://codeforseoul.slack.com/messages/codeacross_start-ups)
+
+- [4팀 team4](http://bit.ly/codeacross-2015-seoul-4) [#idea4](https://codeforseoul.slack.com/messages/idea4/)    
     * 우리동네 생활지표 순위
     * 내 주위 놀이터, 유치원, 공원, 교육예산 등 정부의 재 정 지출 현황으로 관심의 범위를 확대.
+    * 팀원: 홍대의,김현재, 박수미, 김지수, Nicolas, Ilya
+    * 슬랙 채널: [#idea4](https://codeforseoul.slack.com/messages/idea4/)
+    * 코드 저장소: https://github.com/netfish88/CodeForSeoul_LocalGovIndex
+    * 결과물: http://netfish88.github.io/CodeForSeoul_LocalGovIndex
+
 - [5팀 team5](https://docs.google.com/document/d/1-_pjox-9EFKoJ2rRINVtfK951r1sZT7pNoKOQngoMhs/edit?usp=sharing) [#how-much-shovelling](https://codeforseoul.slack.com/messages/how-much-shovelling)
     * How Much Shoveling We’ve Done
     * 정부의 예산이 집행된 공사의 집행 기관명과 위치, 총 공사비 등을 투명하게 지도 상에 시각화.
+    * 팀원: 기획 임재균, 개발 Soonoh Jung, 개발 Andrew Min, 개발 Chris T, 개발 DooHwan Yi
+    * 슬랙 채널: [#how-much-shovelling](https://codeforseoul.slack.com/messages/how-much-shovelling)
+    * 데이터 저장소: https://drive.google.com/folderview?id=0BwWJPPNsxJL_fkVXeG9qR0J0Mmd6S1d4cElOWmxMRGQzRFhZWkd4alRGaDl1MlZzNEJCNHM&usp=sharing
+    * 웹사이트: http://codeforseoul.org/how-much-shoveling/
+    * 코드 저장소: https://github.com/codeforseoul/how-much-shoveling
+    * 결과물: http://shoveling-203928.apne1.nitrousbox.com:8000
+
 - [중간 공유회](http://bit.ly/1DMosuX) #general
 
 ### [투명 재정 해커톤](hackathon)
