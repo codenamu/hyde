@@ -17,6 +17,10 @@ title: 2015 투명 재정 해커톤
 * 장소: [Creative Commons Korea 사옥](http://map.naver.com/?dlevel=12&pinType=site&pinId=12231010&x=126.9218731&y=37.5511880&enc=b64)   
   홍대입구역, 상수역 근처. 서울특별시 마포구 서교동 363-20 5층
 
+![투명재정해커들](/public/16960403331_3d4376a6b7_z.jpg)
+
+[해커톤 행사 사진 더보기](https://www.flickr.com/photos/wowcckorea/sets/72157651163126937/)
+
 ## 참가팀
 
 - [1팀 team1](http://bit.ly/codeacross-2015-seoul-1) [#idea1](https://codeforseoul.slack.com/messages/idea1/)    
