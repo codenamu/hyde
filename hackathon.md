@@ -39,9 +39,10 @@ title: 2015 투명 재정 해커톤
     * 필요한 데이터를 구할 수 없어서 팀단위 해커톤 참가 포기.
 
 - [4팀 team4](http://bit.ly/codeacross-2015-seoul-4) [#idea4](https://codeforseoul.slack.com/messages/idea4/) ```특별상```    
-    * 우리동네 생활지표 순위
-    * 내 주위 놀이터, 유치원, 공원, 교육예산 등 정부의 재 정 지출 현황으로 관심의 범위를 확대.
+    * 재정자립도 시각화 프로젝트 
+    * 지속적으로 악화되어만 가는 지방정부의 재정자립도를 시각화하여 지방자치의 독립성과 지역주민의 복지 및 편익이 저하되고 있음을 보여줌. 현재 서울 데이터 및 서울 지도를 중심으로 되어있으나 추후 전국으로 확대 예정 
     * 해커톤 참가자: 홍대의, 김현재
+    * 팀원 모집중 - 함께해요. (아님 날 데려가 줘 by Davidhong)
     * 코드 저장소: https://github.com/netfish88/CodeForSeoul_LocalGovIndex
     * 결과물: http://netfish88.github.io/CodeForSeoul_LocalGovIndex
 
@@ -50,7 +51,7 @@ title: 2015 투명 재정 해커톤
     * 정부의 예산이 집행된 공사의 집행 기관명과 위치, 총 공사비 등을 투명하게 지도 상에 시각화.
     * 해커톤 참가자: 이두환, Andrew Min, 정순오, Christopher Tong
     * 코드 저장소: https://github.com/codeforseoul/how-much-shoveling
-    * 결과물: http://shoveling-203928.apne1.nitrousbox.com:8000
+    * 결과물: http://showveling-codeforseoul.appspot.com/
 
 - 일반 참가자: 임영제, 이치훈, 장승훈, 이예연, 홍영택, 이장, 강현숙
 

@@ -61,8 +61,8 @@ title: 개요
     * 슬랙 채널: [#codeacross_start-ups](https://codeforseoul.slack.com/messages/codeacross_start-ups)
 
 - [4팀 team4](http://bit.ly/codeacross-2015-seoul-4) [#idea4](https://codeforseoul.slack.com/messages/idea4/)    
-    * 우리동네 생활지표 순위
-    * 내 주위 놀이터, 유치원, 공원, 교육예산 등 정부의 재 정 지출 현황으로 관심의 범위를 확대.
+    * 재정자립도 시각화 프로젝트 
+    * 지속적으로 악화되어만 가는 지방정부의 재정자립도를 시각화하여 지방자치의 독립성과 지역주민의 복지 및 편익이 저하되고 있음을 보여줌. 현재 서울 데이터 및 서울 지도를 중심으로 되어있으나 추후 전국으로 확대 예정 
     * 팀원: 홍대의,김현재, 박수미, 김지수, Nicolas, Ilya
     * 슬랙 채널: [#idea4](https://codeforseoul.slack.com/messages/idea4/)
     * 코드 저장소: https://github.com/netfish88/CodeForSeoul_LocalGovIndex
@@ -76,7 +76,7 @@ title: 개요
     * 데이터 저장소: https://drive.google.com/folderview?id=0BwWJPPNsxJL_fkVXeG9qR0J0Mmd6S1d4cElOWmxMRGQzRFhZWkd4alRGaDl1MlZzNEJCNHM&usp=sharing
     * 웹사이트: http://codeforseoul.org/how-much-shoveling/
     * 코드 저장소: https://github.com/codeforseoul/how-much-shoveling
-    * 결과물: http://shoveling-203928.apne1.nitrousbox.com:8000
+    * 결과물: http://showveling-codeforseoul.appspot.com/
 
 - [중간 공유회](http://bit.ly/1DMosuX) #general
 
